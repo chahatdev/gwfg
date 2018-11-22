@@ -1,0 +1,35 @@
+Username: gwfg
+Password: pDIk5XhnF
+Domain: gwfg.com
+
+To log in immediately, follow this link, using your username and password:
+
+https://185.104.29.36:2222
+https://185.104.29.36/phpmyadmin/
+
+Once your domain resolves, you will be able to follow this link:
+
+https://www.gwfg.com:2222
+
+
+Frontend Link - 185.104.29.36/~gwfg
+
+FTP Server: 185.104.29.36
+Login: gwfg
+Password: pDIk5XhnF
+
+
+
+TODO:
+ ✔ 1: owner and other dashboard link same @done (18-11-17 15:39)
+ ✔ 2: owner logout error @done (18-11-17 15:42)
+ ☐ 3: security check not to direct access
+ ✔ 4: dashboard nav @done (18-11-17 16:05)
+ ☐ 5: navigation open issue
+ ✔ 6: dashobard nav link issue @done (18-11-17 17:40)
+ ✔ 7: nav search remove @done (18-11-17 15:52)
+ ☐ 8: single hirarchy button as per 'view team'
+ ☐ 9: rank shoulb be changed by Owner and SMD
+ ✔ 10: login details can be shown by only Owner @done (18-11-17 17:41)
+ ✔ 11: remove client from team view @done (18-11-17 15:54)
+ ☐ 12: add client in single view team
